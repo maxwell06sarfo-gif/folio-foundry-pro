@@ -1,6 +1,6 @@
 {
   "buildCommand": "vite build",
-  "outputDirectory": "dist/client",
+  "outputDirectory": "dist",
   "installCommand": "bun install",
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
